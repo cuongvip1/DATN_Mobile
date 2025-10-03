@@ -1,7 +1,6 @@
 # Quản lý nhà trọ
 
-A new Flutter project.
-
+Đồ án nhóm của Cương Abbey
 ## Các chức năng
 
 Thực hiện các chức năng quản lý phòng trọ tiền nước,.....
