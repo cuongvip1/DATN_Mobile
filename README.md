@@ -2,6 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
+## Các chức năng
 
 Thực hiện các chức năng quản lý phòng trọ tiền nước,.....
