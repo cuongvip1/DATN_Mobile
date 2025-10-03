@@ -1,9 +1,5 @@
 import 'package:flutter/material.dart';
-import 'my_project.dart'; // export chính hoặc import 'core/app.dart';
-
-void main() {
-  runApp(const MyApp());
-}
+import '../screens/login_page.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
@@ -11,7 +7,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'DoAnQLNT',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
